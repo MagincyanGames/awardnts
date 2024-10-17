@@ -3,11 +3,11 @@
         "category": "Mejor carretada de bugs",
         "winner": "POKEMON ESCARLATA/PURPURA",
         "nominees": {
-            "CYBERPUNK 2077" : "28.6",
-            "ALIEN CONONIAL MARINES" : "1.2",
-            "EFOOTBALL" : "15.1",
-            "POKEMON ESCARLATA/PURPURA" : "47.1",
-            "STARFIELD" : "7.9"
+            "CYBERPUNK 2077" : 138,
+            "ALIEN CONONIAL MARINES" : 6,
+            "EFOOTBALL" : 73,
+            "POKEMON ESCARLATA/PURPURA" : 227,
+            "STARFIELD" : 38
         },
         "time": "6:49",
         "year": "2022"
@@ -15,88 +15,96 @@
     {
         "category": "Mejor juego que dices que es cojonudo, pero porque lo has leído, no por haberlo jugado",
         "winner": "PERSONA 5",
-        "nominees": [
-            "BLOODBORNE",
-            "LOST ODDYSESY",
-            "PERSONA 5",
-            "YAKUZA"
-        ],
+        "nominees": {
+            "BLOODBORNE" : 135,
+            "LOST ODDYSESY" : 52,
+            "PERSONA 5" : 117,
+            "YAKUZA" : 159
+        },
+        "time": "16:10",
         "year": "2022"
     },
     {
         "category": "Mejor juego que no entiendes porque lo bueno empieza más tarde (a partir de las 20 horas)",
         "winner": "MONSTER HUNTER",
-        "nominees": [
-            "MONSTER HUNTER",
-            "TALES OF SYMPHONIA",
-            "XENOBLADE CHRONICLES"
-        ],
+        "nominees": {
+            "MONSTER HUNTER" : 270,
+            "TALES OF SYMPHONIA" : 60,
+            "XENOBLADE CHRONICLES" : 210
+        },
+        "time": "19:34",
         "year": "2022"
     },
     {
         "category": "Mejor juego que te has comprado y no has abierto nunca",
         "winner": "EL JUEGO QUE COMPRASTE POR 3 PAVOS EN GAME, QUE DISTE: ¡ANDAMIRA!",
-        "nominees": [
-            "SHIN MEGAMI TENSEI",
-            "EL JUEGO QUE COMPRASTE POR 3 PAVOS EN GAME, QUE DISTE: ¡ANDAMIRA!",
-            "LOS GAME & WATCH DE NINTENDO QUE VENDIERON CAROS COMO EL FUEGO",
-            "EL MANDO DE STEAM"
-        ],
+        "nominees": {
+            "SHIN MEGAMI TENSEI" : 49,
+            "EL JUEGO QUE COMPRASTE POR 3 PAVOS EN GAME, QUE DISTE: ¡ANDAMIRA!" : 275,
+            "LOS GAME & WATCH DE NINTENDO QUE VENDIERON CAROS COMO EL FUEGO" : 35,
+            "EL MANDO DE STEAM" : 100
+        },
+        "time": "26:19",
         "year": "2022"
     },
     {
         "category": "Mejor juego que peor se me da",
         "winner": "RANGU JUGANDO A CUALQUIER COSA",
-        "nominees": [
-            "BABA IS YOU",
-            "DYSON SPHERE PROGRAM",
-            "SLAY THE SPIRE",
-            "THE WITNESS",
-            "RANGU JUGANDO A CUALQUIER COSA"
-        ],
+        "nominees": {
+            "BABA IS YOU" : 15,
+            "DYSON SPHERE PROGRAM" : 9,
+            "SLAY THE SPIRE" : 8,
+            "THE WITNESS" : 19,
+            "RANGU JUGANDO A CUALQUIER COSA" : 463
+        },
+        "time": "30:57",
         "year": "2022"
     },
     {
         "category": "Mejor juego 2022 (Rangu)",
         "winner": "VERSION PIRATA DE HEART OF DARKNESS",
-        "nominees": [
-            "VERSION PIRATA DE HEART OF DARKNESS"
-        ],
+        "nominees": {
+            "VERSION PIRATA DE HEART OF DARKNESS" : 1
+        },
         "year": "2022",
+        "time": "34:00",
         "type": "PERSONAL"
     },
     {
         "category": "Mejor juego que dejaste a mitad y ... te ha dado pereza volver",
         "winner": "CUALQUIER JUEGO DE UBISOFT",
-        "nominees": [
-            "DEATH STRANDING",
-            "PERSONA 5",
-            "CUALQUIER JUEGO DE UBISOFT",
-            "THE WITCHER 3",
-            "TLOZ: BOTW"
-        ],
+        "nominees": {
+            "DEATH STRANDING" : 71,
+            "PERSONA 5" : 52,
+            "CUALQUIER JUEGO DE UBISOFT" : 231,
+            "THE WITCHER 3" : 83,
+            "TLOZ: BOTW" : 43
+        },
+        "time": "35:54",
         "year": "2022"
     },
     {
         "category": "Mejor goleada de marketing",
         "winner": "SKYRIM",
-        "nominees": [
-            "ANIMAL CROSSING NEW HORIZONS",
-            "GTA V",
-            "MINABO (DE LOS CREADORES DE TOPOTA)",
-            "SKYRIM"
-        ],
+        "nominees": {
+            "ANIMAL CROSSING NEW HORIZONS" : 139,
+            "GTA V" : 88,
+            "MINABO (DE LOS CREADORES DE TOPOTA)" : 139,
+            "SKYRIM" : 234
+        },
+        "time": "42:16",
         "year": "2022"
     },
     {
         "category": "Mejor hora inicial de un juego, que luego no es pa tanto",
         "winner": "ELDEN RING (OTRA VEZ)",
-        "nominees": [
-            "ELDEN RING",
-            "CULT OF THE LAMB",
-            "TROMBONE CHAMP",
-            "ELDEN RING (OTRA VEZ)"
-        ],
+        "nominees": {
+            "ELDEN RING" : 97,
+            "CULT OF THE LAMB" : 85,
+            "TROMBONE CHAMP" : 142,
+            "ELDEN RING (OTRA VEZ)" : 327
+        },
+        "time": "46:44",
         "year": "2022"
     },
     {

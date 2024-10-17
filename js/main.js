@@ -1,4 +1,4 @@
-import { syncPrieces, getPrieces, premiosGlobal } from "./prieces.js";
+import { syncPrieces, getPrieces, premiosGlobal, nomIsWinner } from "./prieces.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     syncPrieces().then(mostrarPremios);
