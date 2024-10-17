@@ -132,7 +132,7 @@
     },
     {
         "category": "G of the year (Doc)",
-        "winner": ["G", "g"],
+        "winner": "G;;g",
         "nominees": [
             "G",
             "g",
@@ -206,13 +206,13 @@
     },
     {
         "category": "Mejor Kim de la selección de fútbol coreana",
-        "winner": "KIM",
+        "winner": "KIM::5",
         "nominees": [
-            "KIM",
-            "KIM",
-            "KIM",
-            "KIM",
-            "KIM"
+            "KIM::1",
+            "KIM::2",
+            "KIM::3",
+            "KIM::4",
+            "KIM::5"
         ],
         "year": "2022"
     },

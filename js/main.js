@@ -24,14 +24,10 @@ function mostrarPremios(premios) {
             <br>
             <p><strong>Nominados</strong> <hr>
             ${ premio.nominees.map(nomina =>  {
-                if (Array.isArray(premio.winner)) {
-                    console.log('is array')
-                    if (premio.winner.includes(nomina)) return `<br><strong>${nomina}</strong>`
-                    else return`<br>${nomina}`
-                }
-                else {
-                    if (nomina === premio.winner) return `<br><strong>${nomina}</strong>`
-                    else return`<br>${nomina}`}
+                const game = nomina.split('::')[0]
+
+                if (premio.winner.split(';;').includes(nomina)) return `<br><strong>${game}</strong>`
+                        else return`<br>${game}`
                 }).join('<br>')
             }
             </p></div>
@@ -45,13 +41,10 @@ function mostrarPremios(premios) {
                 <br>
                 <p><strong>Nominados</strong> <hr>
                 ${ premio.nominees.map(nomina =>  {
-                    if (Array.isArray(premio.winner)) {
-                        console.log('is array')
-                        if (premio.winner.includes(nomina)) return `<br><strong>${nomina}</strong>`
-                    }
-                    else {
-                        if (nomina === premio.winner) return `<br><strong>${nomina}</strong>`
-                        else return`<br>${nomina}`}
+                    const game = nomina.split('::')[0]
+                    console.log(nomina)
+                    if (premio.winner.split(';;').includes(nomina)) return `<br><strong>${game}</strong>`
+                        else return`<br>${game}`
                     }).join('<br>')
                 }
                 </p></div>
