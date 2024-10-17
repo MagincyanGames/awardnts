@@ -2,13 +2,14 @@
     {
         "category": "Mejor carretada de bugs",
         "winner": "POKEMON ESCARLATA/PURPURA",
-        "nominees": [
-            "CYBERPUNK 2077",
-            "ALIEN CONONIAL MARINES",
-            "EFOOTBALL 2023",
-            "POKEMON ESCARLATA/PURPURA",
-            "STARFIELD"
-        ],
+        "nominees": {
+            "CYBERPUNK 2077" : "28.6",
+            "ALIEN CONONIAL MARINES" : "1.2",
+            "EFOOTBALL" : "15.1",
+            "POKEMON ESCARLATA/PURPURA" : "47.1",
+            "STARFIELD" : "7.9"
+        },
+        "time": "6:49",
         "year": "2022"
     },
     {

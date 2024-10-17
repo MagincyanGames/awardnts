@@ -75,7 +75,12 @@ h1 {
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
 }
-
+h2 {
+    color: #e9dfbe;
+    font-size: 3em;
+    margin-bottom: 10px;
+    text-align: center;
+}
 /* Estilo para los títulos de categorías */
 .premio h2 {
     color: #e9dfbe;

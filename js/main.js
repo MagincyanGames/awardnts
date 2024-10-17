@@ -1,13 +1,7 @@
-let premiosGlobal = [];
+import { syncPrieces, getPrieces, premiosGlobal } from "./prieces.js";
+
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('data/prieces.json')
-        .then(response => response.json())
-        .then(data => {
-            
-            premiosGlobal = data; // Guardar los datos globalmente
-            mostrarPremios(premiosGlobal);
-        })
-        .catch(error => console.error('Error al cargar los datos:', error));
+    syncPrieces().then(mostrarPremios);
 });
 
 function mostrarPremios(premios) {
@@ -23,10 +17,10 @@ function mostrarPremios(premios) {
             <div><h2>${premio.category}</h2>
             <br>
             <p><strong>Nominados</strong> <hr>
-            ${ premio.nominees.map(nomina =>  {
+            ${ Object.keys(premio.nominees).map(nomina =>  {
                 const game = nomina.split('::')[0]
 
-                if (premio.winner.split(';;').includes(nomina)) return `<br><strong>${game}</strong>`
+                if (nomIsWinner(premio, nomina)) return `<br><strong>${game}</strong>`
                         else return`<br>${game}`
                 }).join('<br>')
             }
@@ -40,7 +34,7 @@ function mostrarPremios(premios) {
                 
                 <br>
                 <p><strong>Nominados</strong> <hr>
-                ${ premio.nominees.map(nomina =>  {
+                ${ Object.keys(premio.nominees).map(nomina =>  {
                     const game = nomina.split('::')[0]
                     console.log(nomina)
                     if (premio.winner.split(';;').includes(nomina)) return `<br><strong>${game}</strong>`
@@ -52,17 +46,16 @@ function mostrarPremios(premios) {
                 <p class="year"><strong>${premio.year}</strong></p>
             `;
         }
+
+        div.addEventListener('click', () => {
+            window.location.href = `detail.html?c=${premio.category}`;
+        });
+
         contenedor.appendChild(div);
     });
 }
 
 function filtrarPremios() {
     const termino = document.getElementById('buscador-juego').value.toUpperCase();
-    console.log(termino);
-    const premiosFiltrados = premiosGlobal.filter(premio => {
-        console.log(premio.nominees)
-        return premio.nominees.find( x => x.toUpperCase().includes(termino.trim())) || premio.category.toUpperCase().includes(termino.trim()) || premio.winner.toUpperCase().includes(termino.trim()) || premio.year.toUpperCase().includes(termino.trim());
-        }
-    );
-    mostrarPremios(premiosFiltrados);
+    mostrarPremios(getPrieces(termino));
 }
