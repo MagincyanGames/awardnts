@@ -1,0 +1,106 @@
+[
+    {
+        "name": "CYBERPUNK 2077",
+        "developer": "CD PROJEKT RED",
+        "publisher": "CD PROJEKT RED"
+    },
+    {
+        "name": "ALIEN CONONIAL MARINES",
+        "developer": "Gearbox Software",
+        "publisher": "SEGA"
+    },
+    {
+        "name": "EFOOTBALL 2023",
+        "developer": "KONAMI",
+        "publisher": "KONAMI"
+    },
+    {
+        "name": "POKEMON ESCARLATA/PURPURA",
+        "developer": "Game Freak",
+        "publisher": "The Pokémon Company"
+    },
+    {
+        "name": "STARFIELD",
+        "developer": "Bethesda Softworks",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "name": "BLOODBORNE",
+        "developer": "From Software",
+        "publisher": "Sony"
+    },
+    {
+        "name": "LOST ODDYSESY",
+        "developer": "Mistwalker",
+        "publisher": "Xbox"
+    },
+    {
+        "name": "PERSONA 5",
+        "developer": "Atlus",
+        "publisher": "SEGA"
+    },
+    {
+        "name": "YAKUZA",
+        "developer": "Ryu Ga Gotoku Studio",
+        "publisher": "SEGA"
+    },
+    {
+        "name": "MONSTER HUNTER",
+        "developer": "Capcom",
+        "publisher": "Capcom"
+    },
+    {
+        "name": "TALES OF SYMPHONIA",
+        "developer": "Namco",
+        "publisher": "Namco"
+    },
+    {
+        "name": "XENOBLADE CHRONICLES",
+        "developer": "Monolith Soft",
+        "publisher": "Nintendo"
+    },
+    {
+        "name": "SHIN MEGAMI TENSEI",
+        "developer": "Atlus",
+        "publisher": "Atlus"
+    },
+    {
+        "name": "EL JUEGO QUE COMPRASTE POR 3 PAVOS EN GAME, QUE DISTE: ¡ANDAMIRA!"
+    },
+    {
+        "name": "LOS GAME & WATCH DE NINTENDO QUE VENDIERON CAROS COMO EL FUEGO",
+        "developer": "Nintendo",
+        "publisher": "Nintendo"
+    },
+    {
+        "name": "EL MANDO DE STEAM",
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "name": "BABA IS YOU",
+        "developer": "Hempuli Oy",
+        "publisher": "Hempuli Oy"
+    },
+    {
+        "name": "DYSON SPHERE PROGRAM",
+        "developer": "Youthcat Studio",
+        "publisher": "Gamera Games"
+    },
+    {
+        "name": "SLAY THE SPIRE",
+        "developer": "Mega crit",
+        "publisher": "Mega crit"
+    },
+    {
+        "name": "THE WITNESS",
+        "developer": "Thekla, Inc.",
+        "publisher": "Thekla, Inc."
+    },
+    {
+        "name": "RANGU JUGANDO A CUALQUIER COSA",
+        "developer": "Rangu",
+        "publisher": "Rangu"
+    }
+
+]
