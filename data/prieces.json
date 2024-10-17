@@ -110,191 +110,205 @@
     {
         "category": "Mejor persona que todo el mundo cree que es la hosita, pero algo esconde",
         "winner": "PHIL SPENCER",
-        "nominees": [
-            "HIDETAKA MIYAZAKI",
-            "PHIL SPENCER",
-            "SHIGERU MIYAMOTO",
-            "HIDEO KOJIMA",
-            "HENRY CAVILL"
-        ],
+        "nominees": {
+            "HIDETAKA MIYAZAKI" : 64,
+            "PHIL SPENCER" : 265,
+            "SHIGERU MIYAMOTO" : 84,
+            "HIDEO KOJIMA" : 106,
+            "HENRY CAVILL" : 67
+        },
+        "time": "51:11",
         "year": "2022"
     },
     {
         "category": "Mejor juego menos anticipado",
         "winner": "ESE DE LOS DINOSAURIOS DE CAPCOM ¿CUAL? EXACTO, ESE",
-        "nominees": [
-            "CUAL QUIER JUEGO DE SQUARE ENIX (MENOS FINAL FANTASY O KINGDOM HEARTS)",
-            "FINAL FANTASY",
-            "KINGDOM HEARTS",
-            "ESE DE LOS DINOSAURIOS DE CAPCOM ¿CUAL? EXACTO, ESE"
-        ],
+        "nominees": {
+            "CUAL QUIER JUEGO DE SQUARE ENIX (MENOS FINAL FANTASY O KINGDOM HEARTS)" : 89,
+            "FINAL FANTASY" : 48,
+            "KINGDOM HEARTS" : 89, 
+            "ESE DE LOS DINOSAURIOS DE CAPCOM ¿CUAL? EXACTO, ESE" : 368
+        },
+        "time": "58:12",
         "year": "2022"
     },
     {
         "category": "Goat of the year (Doc)",
         "winner": "ESTOS SEÑORES DE ESTADOS UNIDOS",
-        "nominees": [
-            "ESTOS SEÑORES DE ESTADOS UNIDOS"
-        ],
+        "nominees": {
+            "ESTOS SEÑORES DE ESTADOS UNIDOS" : 1
+        },
         "year": "2022",
         "type": "PERSONAL"
     },
     {
         "category": "G of the year (Doc)",
         "winner": "G;;g",
-        "nominees": [
-            "G",
-            "g",
-            "Cuatrocientos caracteres árabes y asiáticos"
-        ],
+        "nominees": {
+            "G" : 1,
+            "g" : 1,
+            "Cuatrocientos caracteres árabes y asiáticos" : 0
+        },
         "year": "2022",
         "type": "PERSONAL"
     },
     {
         "category": "G*#!?@% of the year (Doc)",
         "winner": "Evelio",
-        "nominees": [
-            "Evelio"
-        ],
+        "nominees": {
+            "Evelio" : 1
+        },
         "year": "2022",
         "type": "PERSONAL"
     },
     {
         "category": "Gel of the year (Doc)",
         "winner": "Kosasport",
-        "nominees": [
-            "Kosasport"
-        ],
+        "nominees": {
+            "Kosasport" : 1
+        },
         "year": "2022",
         "type": "PERSONAL"
     },
     {
         "category": "Geoff Keighley of the year (Doc)",
         "winner": "Nibellion",
-        "nominees": [
-            "Nibellion"
-        ],
+        "nominees": {
+            "Nibellion" : 1
+        },
         "year": "2022",
         "type": "PERSONAL"
     },
     {
         "category": "Gear (Metal Gear) of the year (Doc)",
         "winner": "Metal Gear 2",
-        "nominees": [
-            "Metal Gear 2"
-        ],
+        "nominees": {
+            "Metal Gear 2" : 1
+        },
         "year": "2022",
         "type": "PERSONAL"
     },
     {
         "category": "Gaviota of the year (Doc)",
         "winner": "Imagen de stock",
-        "nominees": [
-            "Imagen de stock"
-        ],
+        "nominees": {
+            "Imagen de stock" : 1
+        },
         "year": "2022",
         "type": "PERSONAL"
     },
     {
         "category": "Gallego autónomo of the year (Doc)",
         "winner": "Farmaceutico de Santiago de Compostela",
-        "nominees": [
-            "Farmaceutico de Santiago de Compostela"
-        ],
+        "nominees": {
+            "Farmaceutico de Santiago de Compostela" : 1
+        },
         "year": "2022",
         "type": "PERSONAL"
     },
     {
         "category": "Galletas of the year (Doc)",
         "winner": "Galletas de la madre de Doc",
-        "nominees": [
-            "Galletas de la madre de Doc"
-        ],
+        "nominees": {
+            "Galletas de la madre de Doc" : 1
+        },
         "year": "2022",
         "type": "PERSONAL"
     },
     {
         "category": "Mejor Kim de la selección de fútbol coreana",
         "winner": "KIM::5",
-        "nominees": [
-            "KIM::1",
-            "KIM::2",
-            "KIM::3",
-            "KIM::4",
-            "KIM::5"
-        ],
+        "nominees": {
+            "KIM::1" : 53,
+            "KIM::2" : 107,
+            "KIM::3" : 132,
+            "KIM::4" : 89,
+            "KIM::5" : 212
+        },
+        "time": "1:07:00",
         "year": "2022"
+
     },
     {
         "category": "Mejor juego que se merece un remake, pero que no harán por que solo te acuerdas tú",
         "winner": "GOLDEN SUN",
-        "nominees": [
-            "DINO CRISIS",
-            "GOLDEN SUN",
-            "CROC",
-            "WACKY WHEELS"
-        ],
+        "nominees": {
+            "DINO CRISIS" : 114,
+            "GOLDEN SUN" : 229,
+            "CROC" : 78,
+            "WACKY WHEELS" : 67
+        },
+        "time": "1:10:50",
         "year": "2022"
     },
     {
         "category": "Mejor juego que se merece un remake, pero que no harán por que solo te acuerdas tú y no cabían antes",
         "winner": "CONKER'S BAD FUR DAY",
-        "nominees": [
-            "BLACK & WHITE",
-            "CONKER'S BAD FUR DAY",
-            "DEUS EX",
-            "F-ZERO"
-        ],
+        "nominees": {
+            "BLACK & WHITE" : 91,
+            "CONKER'S BAD FUR DAY" : 180,
+            "DEUS EX" : 64,
+            "F-ZERO" : 172
+        },
+        "time": "1:14:25",
         "year": "2022"
     },
     {
         "category": "Mejor trailer 2022 de los 90",
         "winner": "SEGATA SANSHIRO",
-        "nominees": [
-            "DUKE NUKEM FOREVER",
-            "SEGATA SANSHIRO",
-            "SUPER SMASH BROS",
-            "CRASH BANDICOOT"
-        ],
+        "nominees": {
+            "DUKE NUKEM FOREVER" : 3,
+            "SEGATA SANSHIRO" : 225,
+            "SUPER SMASH BROS" : 140,
+            "CRASH BANDICOOT" : 32
+        },
+        "time": "1:19:30",
         "year": "2022"
     },
     {
         "category": "Mejor juego que te has pasado por enésima vez ignoarndo fuerísimo el resto de lanzamienos aunque te apetecían",
         "winner": "THE OFFICE",
-        "nominees": [
-            "MINECRAFT",
-            "VAMPIRE SURVIVORS",
-            "STARDEW VALLEY",
-            "THE OFFICE"
-        ],
+        "nominees": {
+            "MINECRAFT" : 137,
+            "VAMPIRE SURVIVORS" :  52,
+            "STARDEW VALLEY" : 112,
+            "THE OFFICE" : 207
+        },
+        "time": "1:22:20",
         "year": "2022"
     },
     {
         "category": "Mejor juego 2022 (Enoc)",
         "winner": "POKEMON ESCARLAATA/PURPURA",
-        "nominees": [
-            "POKEMON ESCARLATA/PURPURA"
-        ],
+        "nominees": {
+            "POKEMON ESCARLATA/PURPURA" : 1
+        },
         "year": "2022",
+        "time": "1:25:16",
         "type": "PERSONAL"
     },
     {
         "category": "Mejor juego de nicho, que no lo es, pero tu sigues pensando que sí por sentirtte especial",
         "winner": "DARK SOULS",
-        "nominees": [
-            "DARK SOULS"
-        ],
+        "nominees": {
+            "DARK SOULS" : 243,
+            "UNDERTALE" : 135,
+            "SHADOW OF THE COLOSSUS" : 46,
+            "FIRE EMBLEM" : 50
+        },
+        "time": "1:26:15",
         "year": "2022"
     },
     {
         "category": "Mejor consola o servicio cancelado",
         "winner": "J.K. ROWLING",
-        "nominees": [
-            "GOOGLE STADIA",
-            "INTELLIVISION AMICO",
-            "OUYA",
-            "J.K. ROWLING"
-        ],
+        "nominees": {
+            "GOOGLE STADIA" : 39,
+            "INTELLIVISION AMICO" : 10,
+            "OUYA" : 12,
+            "J.K. ROWLING" : 483
+        },
+        "time": "1:32:10",
         "year": "2022"
     },
     {

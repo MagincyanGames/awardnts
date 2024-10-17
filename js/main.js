@@ -1,4 +1,4 @@
-import { syncPrieces, getPrieces, premiosGlobal, nomIsWinner } from "./prieces.js";
+import { getPrieces, nomIsWinner, syncPrieces } from "./prieces.js";
 
 document.addEventListener('DOMContentLoaded', () => {
     syncPrieces().then(mostrarPremios);
@@ -59,3 +59,5 @@ function filtrarPremios() {
     const termino = document.getElementById('buscador-juego').value.toUpperCase();
     mostrarPremios(getPrieces(termino));
 }
+
+window.filtrarPremios = filtrarPremios;
